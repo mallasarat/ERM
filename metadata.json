@@ -1,0 +1,6 @@
+{
+  "name": "RISKXAI",
+  "description": "Enterprise maturity evaluation system featuring vectorized scoring, performance benchmarking, drift detection, and automated improvement roadmapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
